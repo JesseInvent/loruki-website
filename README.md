@@ -2,4 +2,4 @@
 A responsive in HTML CSS &amp; JS
 
 # Demo
-[lokuriwebsite.netlify.app]
+[lokuriwebsite.netlify.app]: https://lokuriwebsite.netlify.app
